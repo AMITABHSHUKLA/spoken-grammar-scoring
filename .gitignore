@@ -1,0 +1,14 @@
+# Competition data and everything derived from it per clip, including the predictions
+data/
+work/
+features/
+submission.csv
+
+# Secrets
+.env
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
