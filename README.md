@@ -3,7 +3,7 @@
 SHL Hiring Assessment 2026, Kaggle competition.
 
 > ## Rank 1 on the public leaderboard
-> **Score 0.3278** (lower is better) · [Kaggle leaderboard](https://www.kaggle.com/competitions/shl-hiring-assessment-2026/leaderboard)
+> **Score 0.3064** (lower is better) · [Kaggle leaderboard](https://www.kaggle.com/competitions/shl-hiring-assessment-2026/leaderboard)
 
 The solution is one notebook, saved with all its outputs: **[grammar_scoring.ipynb](grammar_scoring.ipynb)**. It contains the report (approach, preprocessing, architecture, evaluation), the code and the charts. If GitHub does not render it, open it on [nbviewer](https://nbviewer.org/github/AMITABHSHUKLA/spoken-grammar-scoring/blob/main/grammar_scoring.ipynb).
 
@@ -72,7 +72,7 @@ The in-sample row is the training RMSE the task asks for, and it is optimistic b
 
 ## Leaderboard
 
-### 🥇 Rank 1 · public score 0.3278
+### 🥇 Rank 1 · public score 0.3064
 
 Lower is better. [See the leaderboard on Kaggle.](https://www.kaggle.com/competitions/shl-hiring-assessment-2026/leaderboard)
 
